@@ -1,0 +1,16 @@
+89c7053e18d6bb55d1d868162b0faa37 *DESCRIPTION
+d219019624627752cf535ed472abd7db *NAMESPACE
+08f309f4ea74c08538d9866ed76eaaae *R/datasets.R
+9013859eb26a5b58b3a9f88c1e5d46c6 *R/extractor.R
+ce1080e5134c0dbed8f0894e79ead9a6 *R/genusLookup.R
+02e35d653154b2546030a5bb717fdd3e *R/microcontax-package.R
+13a2272c373951af6cc35221b5e1eed2 *data/contax.trim.rda
+9f3c94f9f8388cb5d8ac42caaadf4808 *data/datalist
+4cf202e5b18b9a0908a29117730678c8 *data/medoids.rda
+8cd063cd2cabd3c0c29299a9a9e4cdaf *data/taxonomy.table.rda
+923d4ab5e0c3fa42fe0a2e4f68ca85a6 *man/contax.trim.Rd
+0e8d22d6523c8999e6981b7089338e12 *man/genusLookup.Rd
+81c8b4c1c28129b6bd8566f7210a74ae *man/getDomain.Rd
+7a3fa63c030259c6e2a5b5d3fcc9832b *man/medoids.Rd
+e95c8e2f0c64fc04243c868464d78199 *man/microcontax-package.Rd
+91a7748ff1ab4d29e308bed56bf0bc63 *man/taxonomy.table.Rd
